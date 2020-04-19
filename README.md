@@ -10,5 +10,4 @@ This website contains several features like----
  
 
 This website is designed by:
-Swaroop Kumar Sahu
-M. Vamsi
+Swaroop Kumar Sahu along with M. Vamsi
